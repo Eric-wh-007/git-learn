@@ -7,4 +7,5 @@
 3. git commit -a -m ''  跳过git add 操作
 4. git mv file newFile 文件更名
 5. git log --pretty=oneline 以一行显示log
-6. git commmit --amend 修改提交信息
+6. git commmit --amend 修改上一次提交
+7. git reset HEAD <filename > 取消暂存文件
