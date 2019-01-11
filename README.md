@@ -9,3 +9,4 @@
 5. git log --pretty=oneline 以一行显示log
 6. git commmit --amend 修改上一次提交
 7. git reset HEAD <filename > 取消暂存文件
+8. git checkout <filename> 撤销文件的修改
