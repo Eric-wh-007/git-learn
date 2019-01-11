@@ -6,3 +6,4 @@
 2. git rm --cached 删除暂存区文件 在硬盘中不会删除
 3. git commit -a -m ''  跳过git add 操作
 4. git mv file newFile 文件更名
+5. git log --pretty=oneline 以一行显示log
